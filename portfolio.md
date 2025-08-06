@@ -4,11 +4,11 @@ I’m a Technical and UX Writer with over four years of experience in the tech i
 
 ## Intel AI/ML Developer Experience and UX writing examples
 
-- [oneCCL Environment Variables: https](oneCCL Environment Variables: https://github.com/oneapi-src/oneCCL/blob/master/doc/rst/source/env-variables.rst)
+- [oneCCL Environment Variables](https://github.com/oneapi-src/oneCCL/blob/master/doc/rst/source/env-variables.rst)
 
-- [oneCCL Get Started Page: https](oneCCL Get Started Page: https://www.intel.com/content/www/us/en/docs/oneccl/get-started-guide/2021-13/overview.html)
+- [oneCCL Get Started Page](https://www.intel.com/content/www/us/en/docs/oneccl/get-started-guide/2021-13/overview.html)
 
-- [Intel Product Catalog: https](Intel Product Catalog: https://www.intel.com/content/www/us/en/developer/topic-technology/open/project-catalog.html)
+- [Intel Product Catalog](https://www.intel.com/content/www/us/en/developer/topic-technology/open/project-catalog.html)
 
 ## Microsoft Cybersecurity examples
 
