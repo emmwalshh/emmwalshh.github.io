@@ -2,7 +2,7 @@
 
 I’m a Technical and UX Writer with over four years of experience in the tech industry, specializing in clear, user-focused documentation for both technical and non-technical audiences. My work includes product guides, software and API docs, and internal knowledge bases, with a strong emphasis on clarity, consistency, and usability. I’ve contributed at leading tech companies such as Intel, and Microsoft, collaborating closely with cross-functional teams to ensure content aligns with user needs and business goals. This portfolio highlights my commitment to precision, structure, and continuous improvement.
 
-## Intel AI/ML Developer Experience and UX writing examples
+## Intel AI/ML Developer Experience and UX writing samples
 
 - [oneCCL Environment Variables](https://github.com/oneapi-src/oneCCL/blob/master/doc/rst/source/env-variables.rst)
 
@@ -10,7 +10,7 @@ I’m a Technical and UX Writer with over four years of experience in the tech i
 
 - [Intel Product Catalog](https://www.intel.com/content/www/us/en/developer/topic-technology/open/project-catalog.html)
 
-## Microsoft Cybersecurity examples
+## Microsoft Cybersecurity samples
 
 - [Microsoft Defender Antivirus security intelligence and product updates](https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-antivirus-updates)
 
